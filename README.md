@@ -6,7 +6,7 @@
 
 ## Where can I find the tutorial?
 
-You can find this tutorial on [Brillianbites](https://www.brilliantbites.io/two-factor-authentication), where I am creating tutorials to help all Brilliant Directories on their journey.
+You can find this tutorial on [Brillianbites](https://www.brilliantbites.io/two-factor-authentication), where I create tutorials to help all Brilliant Directories owners on their journey.
 
 ## Contributing
 
