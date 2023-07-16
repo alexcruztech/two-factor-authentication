@@ -1,4 +1,15 @@
 <div align="center">
-  <h1 align="center">Implementing Two-Factor Authentication (2FA) for Your Directory</h1>
+  <h1 align="center">Two-Factor Authentication (2FA) Brilliant Directories</h1>
   <p>Implement 2FA on your directory step-by-step</p>
 </div>
+
+
+## Where can I find the tutorial?
+
+You can find this tutorial on [Brillianbites](https://www.brilliantbites.io/two-factor-authentication) Where I am creating tutorial to help all the Brilliant Directories on their journey.
+
+## Contributing
+
+Feel free to open up an issue or reach out to me with.
+
+- **Alex Cruz**: [@alexcruztech](https://github.com/alexcruztech)
