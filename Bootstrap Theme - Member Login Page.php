@@ -82,7 +82,7 @@ if ($_POST['action'] != "") {
 // two factor authentication
 // generate code
 $code = '';
-$characters = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+$characters = '23456789ABCDEFGHJKLMNPQRSTUVWXYZ';
 $length = strlen($characters);
 
 for ($i = 0; $i < 6; $i++) {
